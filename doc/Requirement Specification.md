@@ -42,6 +42,10 @@ The team is currently listening a lot of music in multiple platforms. Because of
 This time the project aims to extend the functionalities of the client company by providing a fully functional online webshop.
 
 Before the release of the webshop, we will be searching for different headphones and look at their description to classify. For example, there are rare ones which are hard to find in the store.
+In the current situation, when the CoVid-19 is spreading and infecting people, we need to stay at home. To prevent people from the virus, we will create a webshop, which will be connected directly to the product storage, where the customers can find headsets and headphones they need, so they don't have to go to the store. That means every order will be shipped right from the webshop, which makes it easier to save people.
+
+Furthermore, ordering an item online is much more convenient than taking any form of public trasportation to get to the store, not even mentioning the pollution that cars or any type of public trasportation vehicle can cause to the atmosphere, and also you don't need to spend hours to get to the store, trying to find the headphone you wanted, especially if tihs day is one of the weekend days, you need to deal with the crowd everywhere in the city, and actually in this time you can't bw with your loved ones or  you can't just relax at home.
+Ordering from home is not just convenient but also protects the environment, and protect your nerves from becoming too angry about the lots of people all around the city. That is the main reason the website shall be created and help to make the customers' lives so much easier.
 
 # 7. Requested Business Model
 
