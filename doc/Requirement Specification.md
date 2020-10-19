@@ -48,6 +48,18 @@ Furthermore, ordering an item online is much more convenient than taking any for
 Ordering from home is not just convenient but also protects the environment, and protect your nerves from becoming too angry about the lots of people all around the city. That is the main reason the website shall be created and help to make the customers' lives so much easier.
 
 # 7. Requested Business Model
+-Customers must have an internet connection in order to connect to the website and use it without any disruption.
 
+-Being a registered user is necessary for online purchases.
+
+-Database connection has to be set and fully functional.
+
+-Users have to use a 16:9 pc monitor for the best experience but other aspect rations can be used too.
+
+-Users have to be logged in in order to reach the profile page
+
+- Admins can add, they can delete or modify the items on the webshop.
+
+-Admins can set discounts to certain headsets and headphones for limited time.
 
 # 8. Request List
