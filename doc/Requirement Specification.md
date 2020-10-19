@@ -38,7 +38,10 @@ Obligation to EU privacy laws, it is our responsibility to inform users about ho
 
 
 # 6. Current Business Model
+The team is currently listening a lot of music in multiple platforms. Because of it we made the choice that we need to start a webshop in order to satisfy the people's demands. This webshop will show the best headsets and headphones for different music genres.  Right now, we are able to work very well as a team because we have been created a website and managed it correctly.
+This time the project aims to extend the functionalities of the client company by providing a fully functional online webshop.
 
+Before the release of the webshop, we will be searching for different headphones and look at their description to classify. For example, there are rare ones which are hard to find in the store.
 
 # 7. Requested Business Model
 
