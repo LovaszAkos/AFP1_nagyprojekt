@@ -8,6 +8,7 @@
 ## Browser requirements:
 
 ## Privacy and Cookie Policy
+Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the functional specification it will be explained in details.
 
 # 4. Current business model
 The team is currently listening a lot of music in multiple platforms. Because of it we made the choice that we need to start a webshop in order to satisfy the people's demands. This webshop will show the best headsets and headphones for different music genres.  Right now, we are able to work very well as a team because we have been created a website and managed it correctly.
