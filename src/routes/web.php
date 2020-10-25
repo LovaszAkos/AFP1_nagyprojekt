@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\CategoryController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -18,4 +19,9 @@ Route::get('/', function () {
     return view('welcome');
 })->name('welcome');
 
+Route::middleware('auth')->group(function (){
+    Route::get('/home', [HomeController::class, 'home']);
+});
+
 Route::resource('category', CategoryController::class);
+
