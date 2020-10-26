@@ -13,8 +13,9 @@ Our vision is to have an online website, where we can sell our products to our c
 # 4. Functional Requirements
 You can read more in the "Request list" section about the functional requirements. Our current and requested business contains some more information about that as well.
 Our website has two types of usage: user, administrator.
+
 ## User:
-1. An user can add items to the cart.
+1. An user can add items to the cart and can also remove them.
 2. An user can browse different listings on the website.
 3. An user can register and log into their account.
 4. They can order the items that has been put into the cart, and fill out their shipping address and payment information.
