@@ -1,5 +1,7 @@
 # 1. Current State 
 
+We've been commissioned by an electrical gadgets shop owner, who's selling headphones and earphones, to create a website that he can use in his business, so he can reach more music enthusiasts. Our task is to develop a platform where he can showcase his products and sell them at the same time.
+
 # 2. Scope
 
 # 3. Standards & Laws
