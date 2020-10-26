@@ -1,4 +1,4 @@
-# Requirement Specification
+﻿# Requirement Specification
 
 
 # 1. Introduction
@@ -12,20 +12,6 @@ Our vision is to have an online website, where we can sell our products to our c
 
 # 4. Functional Requirements
 You can read more in the "Request list" section about the functional requirements. Our current and requested business contains some more information about that as well.
-Our website has two types of usage: user, administrator.
-
-## User:
-1. An user can add items to the cart and can also remove them.
-2. An user can browse different listings on the website.
-3. An user can register and log into their account.
-4. They can order the items that has been put into the cart, and fill out their shipping address and payment information.
-5. An user can read the items' descriptions and take a closer look at the images.
-
-## Administrator:
-1. An administrator can add, delete and edit items on the website.
-2. An administrator can see all previous orders.
-3. An adminitrator can cancel orders.
-4. An administator has the same functions as an user.
 
 # 5. Standards & Laws
 ## General Standards:
@@ -46,6 +32,37 @@ Application must meet the following general standards:
 -   Google Chrome
 -   Internet Explorer
 
+## Online shop regulations
+**Definitions:**
+
+1.  The seller - Headphone shop
+2.  Customer- An individual who is at least 14 years old, in case he/she is not 18 yet the consent of his/her legal representative is required. / A legal person or organization unit.
+3.  Online store / Shop / Webshop -Internet service available at (_-not yet clarified-_) through which a customer can purchase goods from the seller.
+4.  Goods - Movable items presented in the online shop.
+5.  Regulations - Rules of the online shop.
+
+**General provisions:**
+
+1.  Online shop is run by the seller.
+2.  The regulations define the rules for the conclusion between the seller and the customer contracts for the sale of goods by means of distance communication and use by customers of the online store.
+3.  Information about the price given in the online store is binding from the moment of receipt of the e-mails. After successful submission of the order, this price will not change regardless of changes in the prices in the store, which may arise in relation to particular goods.
+4.  Photos of the goods are placed in the online store for exemplary purposes only and are specifically indicated in the presentation of the goods.
+5.  Prerequisite for a successful placing an order, is to provide accurate and real data at registration as well as at the Order Page.
+
+**The scope of the terms and conditions of use the online shop:**
+
+1.  To use the service provided by the online store, the customer need to cognize these rules and accept them.
+2.  The provided information in the registration form and Order Page should be truthful and current. If the customer provides incorrect or outdated information, in particular as regards to the personal data of the customer, the seller is not obliged to carry out orders. It is prohibited to transfer or make available by the customer illegal content or infringe the rights of third parties.
+3.  Seller shall take the necessary technical and organizational measures to prevent acquisition and modification data provided by the customer during registration and when ordering by unauthorized users.
+
+**Placing an order:**
+
+1.  Orders for goods available in the online shop are made through the Order Page, available in the store.
+2.  Placing an order through Order Page is possible around the clock, every day of the week. Orders placed on weekdays will be implemented on an ongoing basis. Orders placed on Saturdays, Ssundays and holidays will be implemented no earlier than the next business day.
+3.  An order shall be made by logging in to the store, addition of the goods to the shopping cart and confirmation of the order. In the absence of the customer registration in the online shop placing an order is not possible.
+4.  Sending the order by the customer constitutes an offer submitted by the customer to the seller to enter into a contract of sale, in accordance with the regulations.
+5.  After sending the order the customer receives confirmation of acceptance of his offer by electronic means (confirmation of the order), at the e-mail address indicated by the customer. After receiving above-mentioned acceptance agreement of sale is valid.
+
 
 ## Privacy and Cookie Policy
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the functional specification it will be explained in details.
@@ -58,7 +75,7 @@ This time the project aims to extend the functionalities of the client company b
 Before the release of the webshop, we will be searching for different headphones and look at their description to classify. For example, there are rare ones which are hard to find in the store.
 In the current situation, when the CoVid-19 is spreading and infecting people, we need to stay at home. To prevent people from the virus, we will create a webshop, which will be connected directly to the product storage, where the customers can find headsets and headphones they need, so they don't have to go to the store. That means every order will be shipped right from the webshop, which makes it easier to save people.
 
-Furthermore, ordering an item online is much more convenient than taking any form of public trasportation to get to the store, not even mentioning the pollution that cars or any type of public trasportation vehicle can cause to the atmosphere, and also you don't need to spend hours to get to the store, trying to find the headphone you wanted, especially if tihs day is one of the weekend days, you need to deal with the crowd everywhere in the city, and actually in this time you can't bw with your loved ones or  you can't just relax at home.
+Furthermore, ordering an item online is much more convenient than taking any form of public transportation to get to the store, not even mentioning the pollution that cars or any type of public transportation vehicle can cause to the atmosphere, and also you don't need to spend hours to get to the store, trying to find the headphone you wanted, especially if tihs day is one of the weekend days, you need to deal with the crowd everywhere in the city, and actually in this time you can't b with your loved ones or  you can't just relax at home.
 Ordering from home is not just convenient but also protects the environment, and protect your nerves from becoming too angry about the lots of people all around the city. That is the main reason the website shall be created and help to make the customers' lives so much easier.
 
 # 7. Requested Business Model
