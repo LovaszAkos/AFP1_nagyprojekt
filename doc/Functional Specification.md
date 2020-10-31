@@ -53,3 +53,23 @@ Authorization|A4|Change pw|0.1|User can change their password|
 |Pages|P5|Order page|0.1|Certain users can delete posts |
 |Profile & Pages|PRP1|Profile page|0.1|Users can view profiles|
 |Profile|PR1|Edit profile|0.1|User can edit their profile|
+
+# 7. Use-Cases:
+
+## User:
+- Able to register a new account
+- Able to log in to their account
+- Able to log out to their account
+- Able to see the home page
+- Able to see the product listings by category
+- Can filter through the products
+- Can open a product and see it's detailed description page
+- Able to add products to their cart
+- Able to finish the order
+
+## Manager:
+- Has all the user privileges
+- Able to add a new product
+- Can modify an existing product
+- Able to remove a product
+- Has access to and able to see all the orders from other users
