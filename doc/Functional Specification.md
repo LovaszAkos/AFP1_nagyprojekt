@@ -24,6 +24,19 @@ In the current situation, when the CoVid-19 is spreading and infecting people, w
 Furthermore, ordering an item online is much more convenient than taking any form of public trasportation to get to the store, not even mentioning the pollution that cars or any type of public trasportation vehicle can cause to the atmosphere, and also you don't need to spend hours to get to the store, trying to find the headphone you wanted, especially if tihs day is one of the weekend days, you need to deal with the crowd everywhere in the city, and actually in this time you can't bw with your loved ones or  you can't just relax at home.
 Ordering from home is not just convenient but also protects the environment, and protect your nerves from becoming too angry about the lots of people all around the city. That is the main reason the website shall be created and help to make the customers' lives so much easier.
 # 5. Requested Business model
+-Customers must have an internet connection in order to connect to the website and use it without any disruption.
+
+-Being a registered user is necessary for online purchases.
+
+-Database connection has to be set and fully functional.
+
+-Users have to use a 16:9 pc monitor for the best experience but other aspect rations can be used too.
+
+-Users have to be logged in in order to reach the profile page
+
+- Admins can add, they can delete or modify the items on the webshop.
+
+-Admins can set discounts to certain headsets and headphones for limited time.
 
 # 6. Request List
 | Modul | ID | Name | V | Description |
