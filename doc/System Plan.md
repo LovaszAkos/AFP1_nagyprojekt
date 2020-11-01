@@ -92,8 +92,29 @@ The site must (be):
   
 # 5. Functions
 ## 5.1 Participants
+This website has toówo user level:
+- User
+- Manager
 
 ## 5.2 Use cases and scenarios
+
+### User:
+- Able to register a new account
+- Able to log in to their account
+- Able to log out to their account
+- Able to see the home page
+- Able to see the product listings by category
+- Can filter through the products
+- Can open a product and see it's detailed description page
+- Able to add products to their cart
+- Able to finish the order
+
+### Manager:
+- Has all the user privileges
+- Able to add a new product
+- Can modify an existing product
+- Able to remove a product
+- Has access to and able to see all the orders from other users
 
 # 6. Physical environments
 
