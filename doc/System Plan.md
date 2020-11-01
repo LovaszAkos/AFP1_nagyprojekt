@@ -119,6 +119,11 @@ This website has toówo user level:
 # 6. Physical environments
 
 # 7. Architecture plan
+## 7.1 Backend
+The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's datas and the products. Web Client: The client is based on PHP and Laravel technologies, which helps the client to be stable. On the other hand we can create creative and spectacular content for our users. Furthermore, it will be used to create the website's functions, handle user data and article content.
+
+## 7.2 Frontend
+
 
 # 8. Database plan
 
