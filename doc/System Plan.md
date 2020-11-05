@@ -123,7 +123,7 @@ This website has toówo user level:
 The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's datas and the products. Web Client: The client is based on PHP and Laravel technologies, which helps the client to be stable. On the other hand we can create creative and spectacular content for our users. Furthermore, it will be used to create the website's functions, handle user data and article content.
 
 ## 7.2 Frontend
-
+The frontednd uses CSS, HTML and JavaScript codes and using Bootstrap as its framework, which helps to create a modern looking website and works well cross-platform.
 
 # 8. Database plan
 
