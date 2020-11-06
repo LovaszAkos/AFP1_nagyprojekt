@@ -102,20 +102,20 @@ Supported browsers:
 - Google Chrome
 ## 4.3 Resources:
 - Fully functional database with tables and relations
-  - Secure connection
-  - Intuitive/easy to use interface
-  - Creative front-end palette
-  - Based on PHP language combined with Laravel framework and the user's demands
+- Secure connection
+- Intuitive/easy to use interface
+- Creative front-end palette
+- Based on PHP language combined with Laravel framework and the user's demands
   
 # 5. Functions
 ## 5.1 Participants
-This website has toówo user level:
-- User
+This website has two user level:
+- Customer
 - Manager
 
 ## 5.2 Use cases and scenarios
 
-### User:
+### Customer:
 - Able to register a new account
 - Able to log in to their account
 - Able to log out to their account
