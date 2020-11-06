@@ -28,39 +28,37 @@ Some additional information:
 
 # 2. Project plan
 ## 2.1 Roles and responsibilities
-Backend developer:
+### Backend developer:
 Backend developers are responsible for developing the server-side code, they create the website's functions, and the data structures. They mainly use PHP codes through a framework named as Laravel.
 
-Frontend developer:
+### Frontend developer:
 Frontend developers implement the visual elements that users see and interact with in the website. They make sure that users have no trouble navigating the website. They use HTML, CSS, JavaScript codes.
 
-Database developer:
+### Database developer:
 Database developers are responsible for the storage and management of the data we use in this website. Because of the newly used Laravel, it is much more comfortable and faster.
 
+  ## 2.2 Team members
 
-## 2.2 Team members
--Nyeste Réka - Frontend developer
+- Nyeste Réka - Frontend developer
+- Nagy Zoltán - Backend developer
+- Fügedi Csaba - Database developer
+- Csanádi Balázs Tóbiás - Backend developer, team leader
 
--Nagy Zoltán - Backend developer
+- Dombi Tibor Dávid - Senior developer, supervisor
+- Nagy Martin - Supervisor
+- Balog Balázs - Supervisor
 
--Fügedi Csaba - Database developer
+## 2.3 Project schedule
 
--Csanádi Balázs Tóbiás - Backend developer, team leader
+- 2020/10/20 Requirement and Functional specification documents
+- 2020/10/27 System Plan
+- 2020/11/03 Development start (Sprint 1)
+- 2020/11/10 Development (Sprint 2)
+- 2020/11/17 Introduce our project with a demo (+ Development Sprint 3)
+- 2020/11/24 Development (Sprint 4), testing
+- 2020/12/01 Development finish(Sprint 5), testing
+- 2020/12/08 Review, project finish
 
--Dombi Tibor Dávid - Senior developer, supervisor
-
--Nagy Martin - Supervisor
-
--Balog Balázs - Supervisor
-## 2.2 Project schedule
--2020/10/20 Requirement and Functional specification documents
--2020/10/27 System Plan
--2020/11/03 Development start (Sprint 1)
--2020/11/10 Development (Sprint 2)
--2020/11/17 Introduce our project with a demo (+ Development Sprint 3)
--2020/11/24 Development (Sprint 4), testing
--2020/12/01 Development finish(Sprint 5), testing
--2020/12/08 Review, project finish
 
 ## 2.3 Milestones
 
