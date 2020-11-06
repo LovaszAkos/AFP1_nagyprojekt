@@ -88,18 +88,18 @@ Webshop functions:
 
 ## 4.2 Non-funtional Requirements
 The site must (be):
-  - Easy to use
-  - User-friendly
-  - Navigate to the corresponding page
-  - Show error messages in different and consistent location and style
-  - Have control panels, button (some of them hidden from the general users)
-  - Have permission system
-  - Fit the EU Privacy Policy requirements
+- Easy to use
+- User-friendly
+- Navigate to the corresponding page
+- Show error messages in different and consistent location and style
+- Have control panels, button (some of them hidden from the general users)
+- Have permission system
+- Fit the EU Privacy Policy requirements
 
-  Supported browsers:
-  - Mozilla Firefox
-  - Microsoft Edge
-  - Google Chrome
+Supported browsers:
+- Mozilla Firefox
+- Microsoft Edge
+- Google Chrome
 ## 4.3 Resources:
 - Fully functional database with tables and relations
   - Secure connection
