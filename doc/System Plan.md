@@ -80,6 +80,12 @@ Using common website elements and user management system:
 - **Navigation to different pages:** Users should be able to navigate to any pages.
 - **Permission rules:** Some pages require to login first before navigation.
 
+Webshop functions:
+- **Showing cards:** Users can easily separate the items and its descriptions when we show them as cards. 
+- **Listing items, browsing:** The customer should be able to look around between the products and filter the them in the website.
+- **Shopping cart:** The customer should be able to add or remove products to his/her cart.
+- **Product details:** The customer should be able to see our products' details in a separate page.
+
 ## 4.2 Non-funtional Requirements
 The site must (be):
   - Easy to use
