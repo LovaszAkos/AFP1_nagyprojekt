@@ -60,7 +60,8 @@ Database developers are responsible for the storage and management of the data w
 - 2020/12/08 Review, project finish
 
 
-## 2.3 Milestones
+## 2.4 Milestones
+- 2020/10/20 Requirement and Functional specification documents have been finished
 
 # 3. Business model
 ![Bus Model](https://github.com/Ryvenay/AFP1_nagyprojekt/blob/master/doc/Figures/Business%20Model_v1.0.png)
