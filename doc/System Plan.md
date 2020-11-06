@@ -4,12 +4,27 @@ Our team accepted a commission to make a fully functional website for people of 
 This document describes the project in detail, including the website's functionality, the team members, their roles and responsibilities, technologies we use in this project, development plans etc.
 
 ## 1.2 Project Overview:
+The development team uses multiple technologies and software that that are described in this document. Furthermore, the Business Requirements, the development phases and goals of this project will be documented here. 
+
+The following resources and documents will be used during the developement:
+- The Functional Requirements of the project
+- The features requested by the clients
+-  The database structure and plan
+-  The laws and industry standards that this project is subjected
+-  Regulations
+-  Terms and conditions
+-  Cookies
+-  Logging
+-  Privacy policies like: advertising policies and third party privacy policies
+-  CCPA and GDPR data protection rights
+
+Some additional information:
 - We are responsible for a website, that introduces headphone and headsets with their certain additionals.
 - Develop a platform where users can choose from plenty of goods.
 - Compare items
 - Get a long description about the chosen headphone or headset
 - Look for the best price/value products
-- Provide a comfortable shopping feeling
+- Provide a comfortable shopping experience
 
 # 2. Project plan
 ## 2.1 Roles and responsibilities
