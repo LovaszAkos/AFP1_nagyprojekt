@@ -66,8 +66,7 @@ Database developers are responsible for the storage and management of the data w
 ## 2.5 Technologies
 
 # 3. Business model
-![Bus Model](https://github.com/Ryvenay/AFP1_nagyprojekt/blob/master/doc/Figures/Business%20Model_v1.0.png)
-
+<div align="center">![Bus Model](https://github.com/Ryvenay/AFP1_nagyprojekt/blob/master/doc/Figures/Business%20Model_v1.0.png)</div>
 # 4. Requirements
 ## 4.1 Functional Requirements
 
