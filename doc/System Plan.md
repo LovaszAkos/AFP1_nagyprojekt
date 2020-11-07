@@ -144,6 +144,71 @@ The frontednd uses CSS, HTML and JavaScript codes and using Bootstrap as its fra
 
 # 8. Database plan
 
+## 8.1 Objects
+
+### Users
+
+Users are registered accounts on the website. Their data that are needed for purchase is stored on our database.
+- **id:** A unique identification number that is assigned at registration to every user. 
+- **username:** A unique name the user chooses for their account name, it is required for user to log in to their account
+- **password:** A one way hashed password that is needed to log in to an account.
+- **first_name:** First name of the user as filled in the registration form
+- **last_name:** Last name of the user as filled in the registration form
+- **email:** Email address of the user. It's used for sending order and account information.
+- **birthdate:** Date of birth of the user. 
+- **billing_address:** Default billing address for this user (if any).
+- **Shipping address**: Default shipping address for this user (if any). If this is empty, but the Billing address is filled use that as shipping address.
+- **Regdate:** Date of registration. Filled out automatically.
+- **Level:** Permission level of the user. More levels can be added later.
+	- 0 = User
+	- 1 = Manager
+
+### Products
+Products are headphones and other accessories that are being sold in the website.
+- **id:** An unique identification number, that is automatically incremented.
+- **name:** The name of the product.
+- **brand:** The brand of the product.
+- **in_stock:** Numeric value that shows how many are available to order from that product
+- **img:** A path that shows the location of and image of the product
+- **category:** The main category of the product. 
+
+### Address
+Users certain addresses are stored in this table, which enables ordering without registration.
+Both shipping and billing address is stored here.
+- **id:** Unique number used for identification
+- **country:** The country of the address.
+- **post_code:** Different countries have different postal code format, so this field is not validated.
+- **city:** The city of the address. 
+- **street:** The street name.
+- **house:** House number with all necessary other information (floor, door, building, etc.)
+- **note:** Additional information about the shipping or the order.
+
+### Order
+Customers orders will be stored here with all the necessary information for shipping.
+It does not contain the items the customer ordered. The Items will be stored in a separate helper table.
+- **id:** Unique identification number for each order
+- **user_id:** The identification number of the user who made the order
+- **billing_address:** The identification number of the billing address that are stored in the address table
+- **shipping address:** The identification number of the shipping address that are stored in the address table
+- **status:** Marks the order to completed.
+- **order_time:** The date and time of the order.
+
+
+## 8.2 Helper tables
+For some table connections additional "helper" tables are required.
+
+### cart
+There's a cart for each user and it contains the products the customer would like to order.
+- **user_id:** The id of the user
+- **product_id:** The id of the product
+- **amount:** The amount of the product the customer would like to order.
+ 
+### package
+ This contains the items of each order.
+ - **product_id:** The identification number of the product that has been ordered
+ - **order id:** The identification number of the order this package belongs to
+ - **amount:** Amount of the item that the package has
+
 # 9. Implementation plan
 
 # 10. Test plan
