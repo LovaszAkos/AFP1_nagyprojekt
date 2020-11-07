@@ -208,6 +208,10 @@ There's a cart for each user and it contains the products the customer would lik
  - **product_id:** The identification number of the product that has been ordered
  - **order id:** The identification number of the order this package belongs to
  - **amount:** Amount of the item that the package has
+ 
+ ### Database Plan
+ ![DatabasePlna](https://github.com/Ryvenay/AFP1_nagyprojekt/blob/master/doc/Figures/DatabasePlan.png)
+ 
 
 # 9. Implementation plan
 
