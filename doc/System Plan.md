@@ -71,6 +71,9 @@ Bootstap will be used to make the dynamic layout of the webshop, so it works smo
 ### Web server – Apache
 An Apache web server will be used to store the database information, in which we will store the database writen in MySQL structure.
 
+### Programming language – PHP
+We are going to write our code in PHP, since it is the most used programming language for building websites. The PHP version which is going to be used is PHP 7.4 or higher since Laravel needs that environment.
+
 # 3. Business model
 ![Bus Model](https://github.com/Ryvenay/AFP1_nagyprojekt/blob/master/doc/Figures/Business%20Model_v1.0.png)
 # 4. Requirements
