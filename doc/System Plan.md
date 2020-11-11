@@ -68,6 +68,9 @@ Database developers are responsible for the storage and management of the data w
 ### Web framework – Bootstap
 Bootstap will be used to make the dynamic layout of the webshop, so it works smoothly on all resolutions in the browsers.
 
+### Web server – Apache
+An Apache web server will be used to store the database information, in which we will store the database writen in MySQL structure.
+
 # 3. Business model
 ![Bus Model](https://github.com/Ryvenay/AFP1_nagyprojekt/blob/master/doc/Figures/Business%20Model_v1.0.png)
 # 4. Requirements
