@@ -82,6 +82,7 @@ We are going to write our code in PHP, since it is the most used programming lan
 - Trello is a free web-based Kanban-style list-making application. We can create our task boards with several columns and move the tasks between them. Typically columns include task statuses: To Do, In Progress and Done.
 
 ### Data structure store – MySQL
+The database structure will be written accordig to the MySQL standards. Recommended version: MySQL 8.0
 
 # 3. Business model
 ![Bus Model](https://github.com/Ryvenay/AFP1_nagyprojekt/blob/master/doc/Figures/Business%20Model_v1.0.png)
