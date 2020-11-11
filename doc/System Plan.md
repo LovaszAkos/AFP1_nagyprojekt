@@ -65,6 +65,9 @@ Database developers are responsible for the storage and management of the data w
 
 ## 2.5 Technologies
 
+### Web framework – Bootstap
+Bootstap will be used to make the dynamic layout of the webshop, so it works smoothly on all resolutions in the browsers.
+
 # 3. Business model
 ![Bus Model](https://github.com/Ryvenay/AFP1_nagyprojekt/blob/master/doc/Figures/Business%20Model_v1.0.png)
 # 4. Requirements
