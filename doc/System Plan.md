@@ -29,15 +29,15 @@ Some additional information:
 # 2. Project plan
 ## 2.1 Roles and responsibilities
 ### Backend developer:
-Backend developers are responsible for developing the server-side code, they create the website's functions, and the data structures. They mainly use PHP codes through a framework named as Laravel.
+Backend developers are responsible for developing the server-side code, they create the website's functions, and the data structures. They mainly use PHP codes.
 
 ### Frontend developer:
 Frontend developers implement the visual elements that users see and interact with in the website. They make sure that users have no trouble navigating the website. They use HTML, CSS, JavaScript codes.
 
 ### Database developer:
-Database developers are responsible for the storage and management of the data we use in this website. Because of the newly used Laravel, it is much more comfortable and faster.
+Database developers are responsible for the storage and management of the data we use in this website. 
 
-  ## 2.2 Team members
+## 2.2 Team members
 
 - Nyeste Réka - Frontend developer
 - Nagy Zoltán - Backend developer
@@ -123,7 +123,7 @@ Supported browsers:
 - Secure connection
 - Intuitive/easy to use interface
 - Creative front-end palette
-- Based on PHP language combined with Laravel framework and the user's demands
+- Based on PHP language and the user's demands
   
 # 5. Functions
 ## 5.1 Participants
@@ -155,7 +155,7 @@ This website has two user level:
 
 # 7. Architecture plan
 ## 7.1 Backend
-The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's datas and the products. Web Client: The client is based on PHP and Laravel technologies, which helps the client to be stable. On the other hand we can create creative and spectacular content for our users. Furthermore, it will be used to create the website's functions, handle user data and article content.
+The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's data and the products. Web Client: The client is based on PHP technologies, which helps the client to be stable. On the other hand we can create creative and spectacular content for our users. Furthermore, it will be used to create the website's functions, handle user data and article content.
 
 ## 7.2 Frontend
 The frontednd uses CSS, HTML and JavaScript codes and using Bootstrap as its framework, which helps to create a modern looking website and works well cross-platform.
