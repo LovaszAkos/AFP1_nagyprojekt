@@ -154,6 +154,9 @@ This website has two user level:
 # 6. Physical environments
 This application was made for web platform and should be used with the supported web browsers
 
+-   Hardware and Network:
+    -   General hardware and network requirements
+
 # 7. Architecture plan
 ## 7.1 Backend
 The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's data and the products. Web Client: The client is based on PHP technologies, which helps the client to be stable. On the other hand we can create creative and spectacular content for our users. Furthermore, it will be used to create the website's functions, handle user data and article content.
