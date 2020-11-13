@@ -152,6 +152,7 @@ This website has two user level:
 - Has access to and able to see all the orders from other users
 
 # 6. Physical environments
+This application was made for web platform and should be used with the supported web browsers
 
 # 7. Architecture plan
 ## 7.1 Backend
