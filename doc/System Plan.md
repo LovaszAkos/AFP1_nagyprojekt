@@ -170,6 +170,13 @@ This application was made for web platform and should be used with the supported
     -   Visual Studio Code
     -   Sublime Text Editor
 
+-   Technologies:
+    -   Bootstrap: Web framework, it is used to make the dynamic layout of the website. It works well with different resolutions and browsers.
+    -   Apache: The Apache web server is used to store, process and deliver the webpage to the browsers.
+    -   PHPMyAdmin: Administration tool for MySQL and MariaDB database server, where we store the data of our website, including editors account data and the articles.
+    -   MySQL: The database structure will be implemented according to MySQL standards.
+    -   PHP: The websties code will be implemented in PHP, which is the most popular way of building website.
+
 # 7. Architecture plan
 ## 7.1 Backend
 The system needs a database system, in this case the team uses a Visual Studio based client, where we store the user's data and the products. Web Client: The client is based on PHP technologies, which helps the client to be stable. On the other hand we can create creative and spectacular content for our users. Furthermore, it will be used to create the website's functions, handle user data and article content.
