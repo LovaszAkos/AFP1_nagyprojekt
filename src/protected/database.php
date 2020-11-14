@@ -5,5 +5,15 @@ function getConnection() {
 	return $connection;
 }
 
+function getRecord($queryString, $queryParams = []) {
+	$connection = getConnection();
+	$statement = $connection->prepare($queryString);
+	$success = $statement->execute($queryParams);
+	$result = $success ? $statement->fetch(PDO::FETCH_ASSOC) : [];
+	$statement->closeCursor();
+	$connection = null;
+	return $result;
+}
+
 
 ?>
