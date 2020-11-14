@@ -3,6 +3,8 @@
     define('PROTECTED_DIR', BASE_DIR.'protected/');
     define('PUBLIC_DIR', BASE_DIR.'public/');
     define('DATABASE_CONTROLLER', PROTECTED_DIR.'database.php');
+    define('USER_DIR', PROTECTED_DIR.'user/');
+    define('USER_CONTROLLER', USER_DIR.'userController.php');
 
     define('DB_TYPE', 'mysql');
     define('DB_HOST', 'localhost');
