@@ -34,5 +34,15 @@ function executeDML($queryString, $queryParams = []) {
 	return $success;
 }
 
+function getField($queryString, $queryParams = []) {
+	$connection = getConnection();
+	$statement = $connection->prepare($queryString);
+	$success = $statement->execute($queryParams);
+	$result = $success ? $statement->fetch()[0]: [];
+	$statement->closeCursor();
+	$connection = null;
+	return $result;
+}
+
 
 ?>
