@@ -185,3 +185,42 @@
         }
         
     }
+
+    function searchProducts($filter) {
+        if(empty($filter)) {
+             $query = "SELECT * FROM products";
+             $params = [];
+         }
+         else {
+             $query = "SELECT * FROM products WHERE ";
+             //$params = [];
+             $iter = new CachingIterator(new ArrayIterator($filter));
+             foreach ($iter as $key => $value) {
+                 if($key == "min") {
+                     $query .= "price >= :".$key." ";
+                     $params[":".$key] = $value;
+                 }
+                 else if($key == "max") {
+                     $query .= "price <= :".$key." ";
+                     $params[":".$key] = $value;
+                 }
+                 else {
+                     $query .=$key." = :".$key." ";
+                     $params[":".$key] = $value;
+                 }
+                 if ($iter->hasNext()) {
+                     $query .= "AND ";
+                 }
+             } 
+             //return $query;
+             /* if(array_key_exists('brand', $filter)) {
+                 $query .= "product_brand = :brand";
+ 
+             } */
+ 
+         }
+         require_once DATABASE_CONTROLLER;
+         return getList($query, $params);
+     }
+ 
+ ?>
