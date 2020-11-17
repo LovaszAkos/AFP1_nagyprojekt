@@ -20,6 +20,13 @@ switch ($_GET['P']) {
         require_once USER_DIR.'login.php';
         break;
 
+    case 'logout':
+        if(IsUserLoggedIn()) {
+            userLogout();
+        }
+        header('Location: index.php');
+        break;
 }
+
 
 ?>
