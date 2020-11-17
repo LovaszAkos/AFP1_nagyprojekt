@@ -39,3 +39,16 @@
         if(executeDML($query, $params)) 
 			return true;
     }
+
+    function removeFromCart($id) {
+        $query = "DELETE FROM cart WHERE product_id = :id";
+        $params = [
+            ':id' => $id
+        ];
+
+        require_once DATABASE_CONTROLLER;
+
+        if(executeDML($query, $params)) {
+            return true;
+        }
+    }
