@@ -14,18 +14,22 @@ switch ($_GET['P']) {
 
     case 'register':
         require_once USER_DIR.'register.php';
-        break;
+    break;
 
     case 'login':
         require_once USER_DIR.'login.php';
-        break;
+    break;
 
     case 'logout':
         if(IsUserLoggedIn()) {
             userLogout();
         }
         header('Location: index.php');
-        break;
+    break;
+
+    case 'listProducts':
+        require_once PRODUCT_DIR.'listProducts.php';
+    break;
 }
 
 
