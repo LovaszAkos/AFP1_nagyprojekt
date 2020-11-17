@@ -15,4 +15,16 @@
         
     </div>
 
-   
+    <div class="col align-self-end text-right" id = "usermenu">
+        <?php if(!IsUserLoggedIn()) : ?>
+            <div class ="menuitem"><a href=<?='index.php?P=login' ?> >Belépés</a></div>
+            <div class ="menuitem"><a href=<?='index.php?P=register' ?> >Regisztráció</a></div>
+        <?php else: ?>
+            <div class ="menuitem"><a href=<?='index.php?P=cart' ?> >Kosár</a></div>
+            <div class ="menuitem"><a href=<?='index.php?P=profile' ?> >Profil</a></div>
+            <div class ="menuitem"><a href=<?='index.php?P=logout' ?> >Kijelentkezés</a></div>
+        <?php endif; ?>
+    </div>
+</div>
+<hr>
+<hr>
