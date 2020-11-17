@@ -1,5 +1,5 @@
 <?php
-    require_once 
+    require_once PRODUCT_CONTROLLER;
     $category = $_GET['category'];
     $items = getProductsByCategory($category);
 ?>
