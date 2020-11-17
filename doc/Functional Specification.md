@@ -8,8 +8,22 @@ The goal of this project is to create a fully functional musical shop, where mem
 
 # 3. Standards & Laws
 ## General Standards:
+Application must meet the following general standards:
+
+- ust be easily understandable and easy to use for the customers.
+- Must function in a logical manner for the users.
+- Must use the industry best practices.
+- Must use styles that are consistent throughout the application and within the associated Web site, including:
+- Error messages must appear in a consistent location and style.
+- Form controls that are not available must be hidden.
 
 ## Browser requirements:
+Web application must function and display properly in the following browser versions:
+
+Mozilla Firefox
+Microsoft Edge
+Google Chrome
+Internet Explorer
 
 ## Privacy and Cookie Policy
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the functional specification it will be explained in details.
