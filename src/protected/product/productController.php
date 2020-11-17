@@ -52,3 +52,13 @@
             return true;
         }
     }
+
+    function getProductsByCategory($category) {
+        $query = "SELECT * FROM products WHERE category = :category";
+        $params = [
+            ':category' => $category
+        ];
+
+        require_once DATABASE_CONTROLLER;
+        return getList($query, $params);
+    }
