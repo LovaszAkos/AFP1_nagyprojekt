@@ -62,3 +62,46 @@
         require_once DATABASE_CONTROLLER;
         return getList($query, $params);
     }
+
+    function addProduct($productBrand, $productName, $category, $price, $inStock, $picture, $shortDesc, $description) {
+
+        $pictureTargetFile = IMG_DIR.basename($picture['name']);
+        $pictureFileType = strtolower(pathinfo($pictureTargetFile,PATHINFO_EXTENSION));
+
+        if (!getimagesize($picture["tmp_name"])) {
+            return '<p id="alert"> A fájl nem kép!</p>';
+        }
+        else if (file_exists($pictureTargetFile)) {
+            return '<p id="alert">A fálj már létezik!</p>';
+        }
+        else if ($picture["size"] > 500000) {
+            return '<p id="alert">A file túl nagy!</p>';
+        }
+        else if ($pictureFileType != "jpg" && $pictureFileType != "png" && $pictureFileType != "jpeg") {
+            return '<p id="alert">Nem megfelelő fájl formátum!</p>';
+        }
+        else if (move_uploaded_file($picture["tmp_name"], $pictureTargetFile)) {
+            $query = "INSERT INTO products (product_brand, product_name, category, price, in_stock, picture, shortdesc, description) VALUES (:productBrand,:productName,:category,:price,:inStock,:picture,:shortDesc,:description)";
+            $params = [
+                ':productBrand' => $productBrand,
+                ':productName' => $productName,
+                ':category' => $category,
+                ':price' => $price,
+                ':inStock' => $inStock,
+                ':picture' => basename($picture['name']),
+                ':shortDesc' => $shortDesc,
+                ':description' => $description
+            ];
+
+            require_once DATABASE_CONTROLLER;
+        
+            if(executeDML($query, $params)) {
+                return '<p id="info">A termék hozzáadva!</p>';
+                
+            }
+            return '<p id="alert">Hiba a termék hozzáadása közben!';
+        }
+        else {
+            return '<p id="alert">Hiba a fájlfeltöltés során!';
+        }
+    }
