@@ -12,6 +12,13 @@ switch ($_GET['P']) {
         require_once PROTECTED_DIR.'normal/404.php';
     break;
 
+    case 'register':
+        require_once USER_DIR.'register.php';
+        break;
+
+    case 'login':
+        require_once USER_DIR.'login.php';
+        break;
     
 }
 
