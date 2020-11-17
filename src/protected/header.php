@@ -1,1 +1,1 @@
-<h1 class="title">Bolt</h1>
+<h1 class = "title">Hangszerbolt</h1>
