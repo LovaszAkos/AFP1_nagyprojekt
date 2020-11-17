@@ -8,9 +8,9 @@
     </div>
 
     <div class = "align-self-center">
-        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Gitár">Gitárok</a></div>
-        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Effekt">Effektek</a></div>
-        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Erősítő">Erősítők</a></div>
+        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Gitár">Fejhallgatók</a></div>
+        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Effekt">Erősítők</a></div>
+        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Erősítő">Hangkártyák</a></div>
         <div class = "menuitem"><a href = "index.php?P=listProducts&category=Kiegészítő">Kiegészítők</a></div>
         
     </div>
