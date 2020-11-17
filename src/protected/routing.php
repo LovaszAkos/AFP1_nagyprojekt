@@ -30,6 +30,14 @@ switch ($_GET['P']) {
     case 'listProducts':
         require_once PRODUCT_DIR.'listProducts.php';
     break;
+
+    case 'product':
+        if (!array_key_exists('ID', $_GET) || empty($_GET['ID'])) {
+            header('Location: index.php');
+        } 
+        require_once PROTECTED_DIR.'normal/product/product.php';
+    break;
+
 }
 
 ?>
