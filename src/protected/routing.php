@@ -32,5 +32,4 @@ switch ($_GET['P']) {
     break;
 }
 
-
 ?>

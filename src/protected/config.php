@@ -5,6 +5,8 @@
     define('DATABASE_CONTROLLER', PROTECTED_DIR.'database.php');
     define('USER_DIR', PROTECTED_DIR.'user/');
     define('USER_CONTROLLER', USER_DIR.'userController.php');
+    define('PRODUCT_DIR', PROTECTED_DIR.'peoduct/');
+    define('PRODUCT_CONTROLLER', PRODUCT_DIR.'productController.php');
 
     define('DB_TYPE', 'mysql');
     define('DB_HOST', 'localhost');
