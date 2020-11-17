@@ -1,4 +1,5 @@
 <?php require_once 'protected/config.php'; ?>
+<?php session_start(); ?>
 
 <!DOCTYPE html>
 <html lang="hu">
