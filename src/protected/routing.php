@@ -38,6 +38,10 @@ switch ($_GET['P']) {
         require_once PROTECTED_DIR.'normal/product/product.php';
     break;
 
+    case 'cart':
+        require_once USER_DIR.'cart.php';
+    break;
+
 }
 
 ?>
