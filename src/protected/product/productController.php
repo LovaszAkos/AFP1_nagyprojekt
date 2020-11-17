@@ -105,3 +105,24 @@
             return '<p id="alert">Hiba a fájlfeltöltés során!';
         }
     }
+
+    function deleteProduct($id) {
+        require_once DATABASE_CONTROLLER;
+        $query = "SELECT picture FROM products WHERE id = :id";
+        $params = [
+            ':id' => $id
+        ];
+
+        $picture = getRecord($query, $params);
+
+        unlink(IMG_DIR.$picture['picture']);
+            
+        $query = "DELETE FROM products WHERE id = :id";
+
+        if (executeDML($query, $params)) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }

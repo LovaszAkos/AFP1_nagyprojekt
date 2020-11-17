@@ -5,7 +5,7 @@ if (!array_key_exists('P', $_GET) || empty($_GET['P'])) {
 
 switch ($_GET['P']) {
     case 'home':
-        require_once PROTECTED_DIR.'normal/home.php';
+        require_once PROTECTED_DIR.'home/home.php';
     break;
     
     default:
@@ -19,7 +19,7 @@ switch ($_GET['P']) {
     case 'login':
         require_once USER_DIR.'login.php';
         break;
-    
+
 }
 
 ?>
