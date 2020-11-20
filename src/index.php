@@ -1,5 +1,7 @@
 <?php require_once 'protected/config.php'; ?>
-<?php require_once USER_DIR.'userController.php'; ?>
+<?php require_once USER_CONTROLLER; ?>
+<?php require_once PRODUCT_CONTROLLER; ?>
+
 <?php session_start(); ?>
 
 <!DOCTYPE html>

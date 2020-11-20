@@ -7,6 +7,7 @@
     define('USER_CONTROLLER', USER_DIR.'userController.php');
     define('PRODUCT_DIR', PROTECTED_DIR.'product/');
     define('PRODUCT_CONTROLLER', PRODUCT_DIR.'productController.php');
+    define('IMG_DIR', PUBLIC_DIR.'img/');
 
     define('DB_TYPE', 'mysql');
     define('DB_HOST', 'localhost');

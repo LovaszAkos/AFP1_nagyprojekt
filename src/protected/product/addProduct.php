@@ -43,7 +43,7 @@
             <div class = "form group col-md-6">
                 <label for="productCategory">Kategória:</label>
                 <select class="form-control" id="productCategory" name = "category" value="<?=isset($postData) ? $postData['category'] : "";?>" required>
-                    <option>Fejhallgaó</option>
+                    <option>Fejhallgató</option>
                     <option>Erősítő</option>
                     <option>Hangkártya</option>
                     <option>Kiegészítő</option>
