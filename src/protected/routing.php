@@ -42,6 +42,17 @@ switch ($_GET['P']) {
         require_once USER_DIR.'cart.php';
     break;
 
+    case 'addProduct': 
+        if (isUserLoggedIn()) {
+            require_once PRODUCT_DIR.'addProduct.php';
+        }
+        else {
+            header('Location: index.php');
+        }
+        
+    break;
+
+
 }
 
 ?>
