@@ -8,10 +8,10 @@
     </div>
 
     <div class = "align-self-center">
-        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Headphones">Fejhallgatók</a></div>
-        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Amplifiers">Erősítők</a></div>
-        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Soundcards">Hangkártyák</a></div>
-        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Accessories">Kiegészítők</a></div>
+        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Fejhallgató">Fejhallgatók</a></div>
+        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Erősítő">Erősítők</a></div>
+        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Hangkártya">Hangkártyák</a></div>
+        <div class = "menuitem"><a href = "index.php?P=listProducts&category=Kiegészítő">Kiegészítők</a></div>
         
     </div>
 
