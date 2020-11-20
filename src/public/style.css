@@ -10,3 +10,14 @@
     padding-left: 4px;
     padding-right: 8px;
 }
+
+#info {
+    text-align: center;
+    background-color:lightgreen;
+}
+
+#alert {
+    text-align: center;
+    background-color: lightcoral;
+    color: white;
+}
