@@ -35,3 +35,20 @@ h2 {
 .container {
     justify-content: center;
 }
+
+.card-img-top {
+    width: auto;
+    height: auto;
+    max-height: 12rem;
+    max-width: 12rem;
+}
+
+.prwimg {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 12rem;
+    width: 12rem;
+}
+
