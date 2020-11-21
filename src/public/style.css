@@ -63,24 +63,17 @@ address {
 }
 
 .card-img-top {
-    width:auto;
-    height: auto;
     max-height: 12rem;
     max-width: 12rem;
-}
-
-.prwimg {
+    width:auto;
+    height: auto;
     display: flex;
     margin: auto;
     justify-content: center;
     align-items: center;
-    height: 12rem;
-    width: 12rem;
 }
 
-.prwimg img {
-    margin: auto;
-}
+
 
 .mainimg {
     text-align: center;
