@@ -35,7 +35,7 @@ switch ($_GET['P']) {
         if (!array_key_exists('ID', $_GET) || empty($_GET['ID'])) {
             header('Location: index.php');
         } 
-        require_once PROTECTED_DIR.'normal/product/product.php';
+        require_once PRODUCT_DIR.'product.php';
     break;
 
     case 'cart':
