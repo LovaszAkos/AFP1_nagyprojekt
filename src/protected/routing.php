@@ -52,6 +52,20 @@ switch ($_GET['P']) {
         
     break;
 
+    case 'ordering':
+        require_once ORDER_DIR.'ordering.php';
+    break;
+
+    case 'removeFromCart':
+        if(!array_key_exists('ID', $_GET) || empty($_GET['ID'])) {
+            header('Location: index.php?P=cart');
+        }
+        else {
+            removeFromCart($_GET['ID']);
+            header('Location: index.php?P=cart');
+        }
+    break;
+
 
 }
 

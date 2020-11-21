@@ -44,5 +44,18 @@ function getField($queryString, $queryParams = []) {
 	return $result;
 }
 
+function executeDMLid($queryString, $queryParams = []) {
+	$connection = getConnection();
+	$statement = $connection->prepare($queryString);
+	$success = $statement->execute($queryParams);
+	$id = $connection->lastInsertId();
+	$statement->closeCursor();
+	$connection = null;
+	if ($success) {
+		return $id;
+	}
+	return $success;
+}
+
 
 ?>

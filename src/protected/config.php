@@ -7,6 +7,10 @@
     define('USER_CONTROLLER', USER_DIR.'userController.php');
     define('PRODUCT_DIR', PROTECTED_DIR.'product/');
     define('PRODUCT_CONTROLLER', PRODUCT_DIR.'productController.php');
+    define('ORDER_DIR', PROTECTED_DIR.'order/');
+    define('ORDER_CONTROLLER', ORDER_DIR.'orderController.php');
+
+
     define('IMG_DIR', PUBLIC_DIR.'img/');
 
     define('DB_TYPE', 'mysql');

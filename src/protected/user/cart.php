@@ -57,5 +57,10 @@
             </tr>
         </tfoot>
     </table>
+    <div class = "row justify-content-md-center">
+        <div class = "col-md-1">
+            <a class="btn btn-primary" href="index.php?P=ordering" role="button">Megrendelés</a>
+        </div>
+    </div>
     
 <?php endif; ?>
