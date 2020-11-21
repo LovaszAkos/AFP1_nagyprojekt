@@ -45,6 +45,13 @@
             executeDML($query, $params);
         }
 
+        $query = "DELETE FROM cart WHERE user_id = :id";
+        $params = [
+            ':id' => $_SESSION['uid']
+        ];
+
+        require_once DATABASE_CONTROLLER;
+        executeDML($query, $params);
     }
 
 ?>
