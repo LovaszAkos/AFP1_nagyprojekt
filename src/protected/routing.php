@@ -83,6 +83,10 @@ switch ($_GET['P']) {
             header('Location: index.php');
         }
     break;
+    
+    case 'search':
+        require_once PRODUCT_DIR.'search.php';
+    break;
 
 
 }
