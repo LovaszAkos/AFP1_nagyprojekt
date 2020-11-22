@@ -66,6 +66,15 @@ switch ($_GET['P']) {
         }
     break;
 
+    case 'modifyProduct':
+        if (isUserLoggedIn()) {
+            require_once PRODUCT_DIR.'modifyProduct.php';
+        }
+        else {
+            header('Location: index.php');
+        }
+    break;
+
 
 }
 
