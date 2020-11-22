@@ -1,6 +1,6 @@
 <?php if (!isUserLoggedIn()) : ?>
     <?php header('Location: index.php?P=login'); ?>
-	
+
 <?php else: ?>
     <?php 
         $query= "SELECT `first_name`, `last_name`, `email`, `address`, `zip`, `city`, `country` FROM `users` WHERE id = :id";
