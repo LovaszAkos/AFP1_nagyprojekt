@@ -55,6 +55,15 @@ switch ($_GET['P']) {
     case 'ordering':
         require_once ORDER_DIR.'ordering.php';
     break;
+	
+	case 'profile':
+        if (isUserLoggedIn()) {
+            require_once USER_DIR.'profile.php';
+        }
+        else {
+            header('Location: index.php');
+        }
+    break;
 
     case 'removeFromCart':
         if(!array_key_exists('ID', $_GET) || empty($_GET['ID'])) {
