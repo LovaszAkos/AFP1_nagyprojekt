@@ -1,4 +1,13 @@
 
+body{
+background-image:url(" https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig15.deviantart.net%2Fd209%2Ff%2F2014%2F280%2F4%2Fa%2Fsince_style_4k__texture__grey_background_by_giozaga-d81xamd.jpg&f=1&nofb=1");
+}
+
+.btn_register{
+	align: center;
+margin: auto;
+}
+
 .title {
     text-align: center;
 }
