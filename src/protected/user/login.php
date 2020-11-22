@@ -18,6 +18,7 @@
 ?>
 
 <h2>Bejelentkezés</h2>
+<p>Teszteléshez: teszt@elek.hu 123456</p>
 <form method="post">
   <div class="form-row justify-content-md-center">
     <div class="form-group col-md-4">
