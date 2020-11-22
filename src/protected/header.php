@@ -1,1 +1,1 @@
-<h1 class = "title">AUDIÓ EQUIPMENT BÓT</h1>
+<h1 class = "title">Audio Equipment Shop</h1>
