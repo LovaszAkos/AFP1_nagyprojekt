@@ -94,6 +94,7 @@
 			<input type="password" class="form-control" id="registerPassword1" name="password1" value="" required>
 		</div>
 	</div>
-
+<div class="btn_register">
 	<button type="submit" class="btn btn-primary" name="register">Register</button>
+</div>
 </form>
