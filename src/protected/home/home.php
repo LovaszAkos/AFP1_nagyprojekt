@@ -7,10 +7,11 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <a href = "index.php?P=listProducts&category=Git%C3%A1r">
-                <img src=<?=IMG_DIR.'senhd600.jpg'; ?>class="d-block w-100" alt="...">
+                <img src=<?=IMG_DIR.'senhd600.jpg'; ?>class="d-block w-100" alt="..." width="1280" height="720">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>-</h5>
-                    <p>-</p>
+                    <h5>Sennheiser HD 600</h5>
+                    <p>Ezt a fejhallgatót a valódi audiofileknek tervezték: a nyílt akusztikájú tervezésnek, digitálisan optimalizált mágneseknek,
+                        illetve a az alumínium lengőtekercseknek köszönhetően páratlan tisztaságú, precíz sztereó hangzást biztosít.</p>
                 </div>
             </a>
         </div>
