@@ -1,8 +1,7 @@
 <?php
 
     require_once ORDER_CONTROLLER;
-    $id = $_GET['id'];
-    $items = getOrdersById($id);
+    $items = listOrders();
 
 ?>
 
@@ -30,7 +29,7 @@
                     <tr>
 
                     <td><?=$item['user_id'] ?></td>
-                    <td><?=$item['last_name' + 'first_name'] ?></td>
+                    <td><?=$item['last_name'] ." ". $item['first_name'] ?></td>
                     <td><?=$item['address'] ?></td>
                     <td><?=$item['complete'] ?></td>
                     <td><?$item['time'] ?></td>
