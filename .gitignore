@@ -4,3 +4,11 @@ src/.idea/
 src/package-lock.json
 
 .idea/workspace.xml
+
+src/protected/order/.idea/vcs.xml
+
+src/protected/order/.idea/codeStyles/codeStyleConfig.xml
+
+src/protected/order/.idea/modules.xml
+
+src/protected/order/.idea/order.iml
