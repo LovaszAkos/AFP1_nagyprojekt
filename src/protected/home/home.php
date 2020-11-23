@@ -26,7 +26,7 @@
         </div>
         <div class="carousel-item">
             <a href = "index.php?P=product&ID=9">
-                <img src=# class="d-block w-100" alt="...">
+                <img src=<?=IMG_DIR.'kompleteaudio6.jpg'; ?> class="d-block w-100" alt="..." width="1280" height="720">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>-</h5>
                     <p>-</p>
