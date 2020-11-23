@@ -7,7 +7,7 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <a href = "index.php?P=listProducts&category=Git%C3%A1r">
-                <img src=# class="d-block w-100" alt="...">
+                <img src=<?=IMG_DIR.'senhd600.jpg'; ?>class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>-</h5>
                     <p>-</p>
