@@ -19,8 +19,8 @@
             <a href = "index.php?P=product&ID=10">
                 <img src=<?=IMG_DIR.'fiiok5pro.jpg'; ?> class="d-block w-100" alt="..." width="1280" height="720">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>-</h5>
-                    <p>-</p>
+                    <h5>FiiO K5 Pro</h5>
+                    <p>Professzionális asztali erősítő D/A konverterrel</p>
                 </div>
             </a>
         </div>
