@@ -28,8 +28,11 @@
             <a href = "index.php?P=product&ID=9">
                 <img src=<?=IMG_DIR.'kompleteaudio6.jpg'; ?> class="d-block w-100" alt="..." width="1280" height="720">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>-</h5>
-                    <p>-</p>
+                    <h5>Native Instruments Komplete Audio 6 MK2</h5>
+                    <p>Adj koncertet a Native Instruments hangkártyával
+                        A Native Instruments Komplete Audio 6 MK2 hangkártyával ragyoghatsz a színpadon. Az egyszerű USB kábelcsatlakoztatásnak köszönhetően megszabadulhatsz a felesleges kábelezéstől és az aljzatokon való függőségtől.
+                        Elég magaddal vinned a laptopodat, és kezdődhet a show.
+                        A további előnye a közvetlenül a hangkártyán elhelyezett nagy hangerőszabályzó gomb.</p>
                 </div>
             </a>
         </div>
