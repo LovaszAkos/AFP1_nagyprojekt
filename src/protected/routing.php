@@ -55,6 +55,16 @@ switch ($_GET['P']) {
     case 'ordering':
         require_once ORDER_DIR.'ordering.php';
     break;
+
+    case 'orderListing':
+        if (isUserLoggedIn()) {
+            require_once ORDER_DIR.'orderListing.php';
+        }
+        else {
+            header('Location: index.php');
+        }
+    break;
+
 	
 	case 'profile':
         if (isUserLoggedIn()) {
