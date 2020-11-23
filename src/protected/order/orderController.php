@@ -55,13 +55,14 @@
     }
 
     function getOrdersById($id) {
-    $query = "SELECT * FROM orders WHERE id = :id";
-    $params = [
-        ':id' => $id
-    ];
+        $query = "SELECT * FROM orders WHERE id = :id";
+        $params = [
+            ':id' => $id
+        ];
 
-    require_once DATABASE_CONTROLLER;
-    return getList($query, $params);
+
+        require_once DATABASE_CONTROLLER;
+        return getList($query, $params);
 }
 
 ?>
