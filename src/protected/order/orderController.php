@@ -54,4 +54,14 @@
         executeDML($query, $params);
     }
 
+    function getOrdersById($id) {
+    $query = "SELECT * FROM orders WHERE id = :id";
+    $params = [
+        ':id' => $id
+    ];
+
+    require_once DATABASE_CONTROLLER;
+    return getList($query, $params);
+}
+
 ?>
