@@ -71,6 +71,6 @@
 
         require_once DATABASE_CONTROLLER;
         return getRecord($query, $params);
-}
+    }
 
 ?>
