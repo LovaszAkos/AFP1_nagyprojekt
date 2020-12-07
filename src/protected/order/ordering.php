@@ -3,4 +3,4 @@
     addOrder();
 ?>
 
-Sikeres megrendelés! (vagy nem, nem kezeltem még le)
+<p id="info">Sikeres megrendelés!</p>
