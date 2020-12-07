@@ -8,7 +8,7 @@
 | Modul | Name | Time | Is it working correctly? | Side Note |
 |-------|------|------|--------------------------|-----------|
 | Database Import| Nagy Zoltán | 2020. 12. 07. 19:57 | Yes | - |
-| Database Reach| Nagy Zoltán | | | |
+| Database Reach| Nagy Zoltán | 2020. 12. 07. 20:08 | No | First attempt: Request Timeout |
 | Logout Reach | Nagy Zoltán | | | |
 | Carousel Test | Nagy Zoltán | | | |
 | Fejhallgató page Test | Nagy Zoltán | | | |
