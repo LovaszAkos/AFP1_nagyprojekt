@@ -1,31 +1,31 @@
 <h1 align= "center">💡️ Project test 💡️</h1>
 <hr>
-<h2 align= "center"> Tester: Fügedi Csaba </h2>
+<h2 align= "center"> Tester: Nagy Zoltán </h2>
 <h3 align= "center"> Date of testing: 2020. 12. 07. </h3>
 <h4 align= "center"> Browser: Safari  </h3>
 <hr>
 
 | Modul | Name | Time | Is it working correctly? | Side Note |
 |-------|------|------|--------------------------|-----------|
-| Database Import| Fügedi Csaba | | | |
-| Database Reach| Fügedi Csaba | | | |
-| Logout Reach | Fügedi Csaba | | | |
-| Carousel Test | Fügedi Csaba | | | |
-| Fejhallgató page Test | Fügedi Csaba | | | |
-| Erősítő page Test | Fügedi Csaba | | | |
-| Hangkártya page Test | Fügedi Csaba | | | |
-| Kiegészítő page Test | Fügedi Csaba | | | |
-| Login page Test | Fügedi Csaba | | | |
-| Order page Test | Fügedi Csaba | | | |
-| Add Product page | Fügedi Csaba | | | |
-| Login Test | Fügedi Csaba | | | |
-| Order Test | Fügedi Csaba | | | |
-| Order List Test | Fügedi Csaba | | | |
-| Product page Test | Fügedi Csaba | | | |
-| Add Cart page Test | Fügedi Csaba | | | |
-| Forgot password Test | Fügedi Csaba | | | |
-| Main Page Test | Fügedi Csaba | | | |
-| Register Page Test | Fügedi Csaba | | | |
-| Registration Test | Fügedi Csaba | | | |
+| Database Import| Nagy Zoltán | | | |
+| Database Reach| Nagy Zoltán | | | |
+| Logout Reach | Nagy Zoltán | | | |
+| Carousel Test | Nagy Zoltán | | | |
+| Fejhallgató page Test | Nagy Zoltán | | | |
+| Erősítő page Test | Nagy Zoltán | | | |
+| Hangkártya page Test | Nagy Zoltán | | | |
+| Kiegészítő page Test | Nagy Zoltán | | | |
+| Login page Test | Nagy Zoltán | | | |
+| Order page Test | Nagy Zoltán | | | |
+| Add Product page | Nagy Zoltán | | | |
+| Login Test | Nagy Zoltán | | | |
+| Order Test | Nagy Zoltán | | | |
+| Order List Test | Nagy Zoltán | | | |
+| Product page Test | Nagy Zoltán | | | |
+| Add Cart page Test | Nagy Zoltán | | | |
+| Forgot password Test | Nagy Zoltán | | | |
+| Main Page Test | Nagy Zoltán | | | |
+| Register Page Test | Nagy Zoltán | | | |
+| Registration Test | Nagy Zoltán | | | |
 
 
