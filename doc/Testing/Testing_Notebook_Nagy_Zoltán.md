@@ -13,7 +13,7 @@
 | Carousel Test | Nagy Zoltán | 2020. 12. 07. 22:07 | Yes | Works properly |
 | Fejhallgató page Test | Nagy Zoltán | 2020. 12. 07. 22:10 | Yes | Reached and worked correctly |
 | Erősítő page Test | Nagy Zoltán | 2020. 12. 07. 22:11 | Yes | Reached and worked correctly |
-| Hangkártya page Test | Nagy Zoltán | | | |
+| Hangkártya page Test | Nagy Zoltán | 2020. 12. 07. 22:15 | Yes | Reached and worked correctly |
 | Kiegészítő page Test | Nagy Zoltán | | | |
 | Login page Test | Nagy Zoltán | | | |
 | Order page Test | Nagy Zoltán | | | |
