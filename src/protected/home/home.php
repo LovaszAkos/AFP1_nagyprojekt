@@ -5,9 +5,9 @@
         <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
     </ol>
     <div class="carousel-inner">
-        <div class="carousel-item active">
+        <div class="carousel-item active" >
             <a href = "index.php?P=product&ID=24">
-                <img src=<?=IMG_DIR.'senhd600.jpg'; ?> class="d-block w-100" alt="..." width="1280" height="720">
+                <img src=<?=IMG_DIR.'senhd600.jpg'; ?> class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Sennheiser HD 600</h5>
                     <p>Ezt a fejhallgatót a valódi audiofileknek tervezték: a nyílt akusztikájú tervezésnek, digitálisan optimalizált mágneseknek,
@@ -16,8 +16,8 @@
             </a>
         </div>
         <div class="carousel-item">
-            <a href = "index.php?P=product&ID=10">
-                <img src=<?=IMG_DIR.'fiiok5pro.jpg'; ?> class="d-block w-100" alt="..." width="1280" height="720">
+            <a href = "index.php?P=product&ID=26">
+                <img src=<?=IMG_DIR.'Fiio-K5-pro.png'; ?> class="d-block w-100" >
                 <div class="carousel-caption d-none d-md-block">
                     <h5>FiiO K5 Pro</h5>
                     <p>Professzionális asztali erősítő D/A konverterrel</p>
@@ -25,14 +25,11 @@
             </a>
         </div>
         <div class="carousel-item">
-            <a href = "index.php?P=product&ID=9">
-                <img src=<?=IMG_DIR.'kompleteaudio6.jpg'; ?> class="d-block w-100" alt="..." width="1280" height="720">
+            <a href = "index.php?P=product&ID=25">
+                <img src=<?=IMG_DIR.'K712Pro.jpg'; ?> class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Native Instruments Komplete Audio 6 MK2</h5>
-                    <p>Adj koncertet a Native Instruments hangkártyával
-                        A Native Instruments Komplete Audio 6 MK2 hangkártyával ragyoghatsz a színpadon. Az egyszerű USB kábelcsatlakoztatásnak köszönhetően megszabadulhatsz a felesleges kábelezéstől és az aljzatokon való függőségtől.
-                        Elég magaddal vinned a laptopodat, és kezdődhet a show.
-                        A további előnye a közvetlenül a hangkártyán elhelyezett nagy hangerőszabályzó gomb.</p>
+                    <h5>AKG K712 Fejhallgató</h5>
+                    <p>A  K712PRO  az új csúcsreferencia az AKG fejhallgatók sorában, így a K702 a két új fejhallgató közé pozícionálható. A kifinomult nyitott kialakítás, a 3dB-el megnövelt mélyfrekvenciás teljesítmény, a forradalmi lapos hangtekercs, és a lecsatolható professzionális kábel fáradtságtól mentes munkaórákat biztosítanak a keverés során. A K712PRO eredeti bőr fejpánttal rendelkezik mely rendkívül kényelmes. A gondosan kiválasztott kapszulák kiegyensúlyozott és pontos hangképet biztosítanak. A K712PRO csomagolása tartalmaz egy spirál kábelt és egy prémium minőségű hordtáskát is.  Élvezetet nyújt és évtizedekig tartó AKG minőséget biztosít minden felhasználó számára.</p>
                 </div>
             </a>
         </div>
