@@ -1,8 +1,8 @@
-﻿# Requirement Specification
+# Requirement Specification
 
 
 # 1. Introduction
-Our team is a small but ambitious web developer team that aims to achieve the highest heights. The team consists of four trustworthy, young developers, who are eagerly helping out each other and solve problems together. Our main profile is highly dynamic, database-driven websites, especially webshops. We mainly use the Laravel framework, however, we are flexible with our technologies.
+Our team is a small, but ambitious web developer team that aims to achieve the highest heights. The team consists of four trustworthy, young developers, who are eagerly helping out each other and solve problems together. Our main profile is highly dynamic, database-driven websites, especially webshops. We mainly use the Laravel framework, however, we are flexible with our technologies.
 
 # 2. Current State
 Our company is a small retail store in Eger, Hungary, where we sell high quality headphones and headphone accessories. We've been existing for the past 3 years only as a local store near the city center, where customers can try and purchase from a wide variety of headphone gear. During these years our team have been continuously expanding their knowledge about headphones and audio gear to the point of expertise. In the past few months we started to gain more and more customers and since us being the only headphone retail store in the region most of our customers are travelling here from far away to purchase our products. Because of this, we would like to improve and extend our business and as a part of it, have an online website where we can satisfy our customers who live farther away as well.
@@ -89,7 +89,7 @@ Ordering from home is not just convenient but also protects the environment, and
 
 -Users have to be logged in in order to reach the profile page
 
-- Admins can add, they can delete or modify the items on the webshop.
+-Admins can add, they can delete or modify the items on the webshop.
 
 -Admins can set discounts to certain headsets and headphones for limited time.
 
@@ -101,7 +101,7 @@ Ordering from home is not just convenient but also protects the environment, and
 |Authorization|A1|Log-in|0.1|User can log-in to their account|
 |Authorization|A2|Register|0.1|User can register a new account|
 |Authorization|A3|Log-out|0.1|User can log out from their account|
-Authorization|A4|Change pw|0.1|User can change their password|
+|Authorization|A4|Change pw|0.1|User can change their password|
 |Pages|P1|Home page|0.1| Users automatically navigated to the home page|
 |Pages|P2|Categories|0.1|Users can choose what are they searching for (headset or headphone)|
 |Pages|P3|Product page|0.1|Users can view one item's description, value etc.|
