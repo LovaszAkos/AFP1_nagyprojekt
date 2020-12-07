@@ -10,7 +10,7 @@
 | Database Import| Nagy Zoltán | 2020. 12. 07. 19:57 | Yes | - |
 | Database Reach| Nagy Zoltán | 2020. 12. 07. 20:08; 2020. 12. 07. 20:20 | First attempt: No; Secont attempt: Yes | First attempt: Request Timeout; Second attempt: Success |
 | Logout Reach | Nagy Zoltán | 2020. 12. 07. 22:05 | Yes | Working correctly |
-| Carousel Test | Nagy Zoltán | | | |
+| Carousel Test | Nagy Zoltán | 2020. 12. 07. 22:07 | Yes | Works properly |
 | Fejhallgató page Test | Nagy Zoltán | | | |
 | Erősítő page Test | Nagy Zoltán | | | |
 | Hangkártya page Test | Nagy Zoltán | | | |
