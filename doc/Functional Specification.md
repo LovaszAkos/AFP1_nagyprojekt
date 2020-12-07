@@ -1,4 +1,4 @@
-﻿# 1. Current State 
+# 1. Current State 
 
 We've been commissioned by an electrical gadgets shop owner, who's selling headphones and earphones, to create a website that he can use in his business, so he can reach more music enthusiasts. Our task is to develop a platform where he can showcase his products and sell them at the same time.
 
@@ -10,7 +10,7 @@ The goal of this project is to create a fully functional musical shop, where mem
 ## General Standards:
 Application must meet the following general standards:
 
-- ust be easily understandable and easy to use for the customers.
+- Must be easily understandable and easy to use for the customers.
 - Must function in a logical manner for the users.
 - Must use the industry best practices.
 - Must use styles that are consistent throughout the application and within the associated Web site, including:
@@ -20,10 +20,10 @@ Application must meet the following general standards:
 ## Browser requirements:
 Web application must function and display properly in the following browser versions:
 
-Mozilla Firefox
-Microsoft Edge
-Google Chrome
-Internet Explorer
+- Mozilla Firefox
+- Microsoft Edge
+- Google Chrome
+- Internet Explorer
 
 ## Privacy and Cookie Policy
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the functional specification it will be explained in details.
