@@ -97,6 +97,10 @@ switch ($_GET['P']) {
     case 'search':
         require_once PRODUCT_DIR.'search.php';
     break;
+	
+	case 'forgottenPassword':
+        require_once USER_DIR.'forgottenPsw.php';
+    break;
 
 
 }
