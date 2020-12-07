@@ -7,7 +7,7 @@
 
 | Modul | Name | Time | Is it working correctly? | Side Note |
 |-------|------|------|--------------------------|-----------|
-| Database Import| Nagy Zoltán | | | |
+| Database Import| Nagy Zoltán | 2020. 12. 07. 19:57 | Yes | - |
 | Database Reach| Nagy Zoltán | | | |
 | Logout Reach | Nagy Zoltán | | | |
 | Carousel Test | Nagy Zoltán | | | |
