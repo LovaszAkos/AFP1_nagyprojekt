@@ -23,7 +23,8 @@
 | Order List Test | Fügedi Csaba | 17:58, 07. December 2020 | Yes | Corrected Listing errors, now working properly |
 | Product page Test | Fügedi Csaba | 18:28, 07. December 2020 | Yes | Everythings fine here. |
 | Add Cart page Test | Fügedi Csaba | 18:38, 07. December 2020 | Yes | No errors found here. |
-| Forgot password Test | Fügedi Csaba | 18:41, 07. December 2020 | Yes | Routing error here, but repaired. And got Rick Roll|
+| Forgot password Test | Fügedi Csaba | 18:40, 07. December 2020 | No | Routing error here, but repaired.|
+| Forgot password Test | Fügedi Csaba | 18:41, 07. December 2020 | Yes | Got Rick Roll|
 | Main Page Test | Fügedi Csaba | 18:51, 07. December 2020 | Yes | All point is good on this page. |
 | Register Page Test | Fügedi Csaba | 18:55, 07. December 2020 | Yes | The Register page loaded perfectly. |
 | Registration Test | Fügedi Csaba | 19:20, 07. December 2020 | Yes | New user made and everything is working well. |
