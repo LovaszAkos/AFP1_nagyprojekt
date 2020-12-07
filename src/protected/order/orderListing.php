@@ -28,11 +28,11 @@
                 <tbody>
                     <tr>
 
-                    <td><?=$item['user_id'] ?></td>
+                    <td><?=$item['email'] ?></td>
                     <td><?=$item['last_name'] ." ". $item['first_name'] ?></td>
                     <td><?=$item['address'] ?></td>
                     <td><?=$item['complete'] ?></td>
-                    <td><?$item['time'] ?></td>
+                    <td><?=$item['time'] ?></td>
 
                     </tr>
                 </div>
