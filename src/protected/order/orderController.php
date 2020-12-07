@@ -56,7 +56,7 @@
 
 
     function listOrders(){
-        $query = "SELECT * FROM orders";
+        $query = "select * from orders INNER JOIN users on orders.user_id = users.id ";
 
         require_once DATABASE_CONTROLLER;
         return getList($query);
