@@ -14,7 +14,7 @@
 | Fejhallgató page Test | Nagy Zoltán | 2020. 12. 07. 22:10 | Yes | Reached and worked correctly |
 | Erősítő page Test | Nagy Zoltán | 2020. 12. 07. 22:11 | Yes | Reached and worked correctly |
 | Hangkártya page Test | Nagy Zoltán | 2020. 12. 07. 22:15 | Yes | Reached and worked correctly |
-| Kiegészítő page Test | Nagy Zoltán | | | |
+| Kiegészítő page Test | Nagy Zoltán | 2020. 12. 08. 9:42 | Yes | Reached and worked correctly |
 | Login page Test | Nagy Zoltán | | | |
 | Order page Test | Nagy Zoltán | | | |
 | Add Product page | Nagy Zoltán | | | |
