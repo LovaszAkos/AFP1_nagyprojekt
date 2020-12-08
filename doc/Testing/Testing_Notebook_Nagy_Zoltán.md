@@ -8,7 +8,7 @@
 | Modul | Name | Time | Is it working correctly? | Side Note |
 |-------|------|------|--------------------------|-----------|
 | Database Import| Nagy Zoltán | 2020. 12. 07. 19:57 | Yes | - |
-| Database Reach| Nagy Zoltán | 2020. 12. 07. 20:08; 2020. 12. 07. 20:20 | First attempt: No; Secont attempt: Yes | First attempt: Request Timeout; Second attempt: Success |
+| Database Reach| Nagy Zoltán | 2020. 12. 07. 20:08; 2020. 12. 07. 20:20 | First attempt: No; Second attempt: Yes | First attempt: Request Timeout; Second attempt: Success |
 | Logout Reach | Nagy Zoltán | 2020. 12. 07. 22:05 | Yes | Working correctly |
 | Carousel Test | Nagy Zoltán | 2020. 12. 07. 22:07 | Yes | Works properly |
 | Fejhallgató page Test | Nagy Zoltán | 2020. 12. 07. 22:10 | Yes | Reached and worked correctly |
@@ -16,7 +16,7 @@
 | Hangkártya page Test | Nagy Zoltán | 2020. 12. 07. 22:15 | Yes | Reached and worked correctly |
 | Kiegészítő page Test | Nagy Zoltán | 2020. 12. 08. 9:42 | Yes | Reached and worked correctly |
 | Login page Test | Nagy Zoltán | 2020. 12. 08. 9:46 | Yes | Reacked and worked correctly |
-| Order page Test | Nagy Zoltán | | | |
+| Order page Test | Nagy Zoltán | 2020. 12. 08. 9:48 | Yes | Reached and worked correctly |
 | Add Product page | Nagy Zoltán | | | |
 | Login Test | Nagy Zoltán | | | |
 | Order Test | Nagy Zoltán | | | |
