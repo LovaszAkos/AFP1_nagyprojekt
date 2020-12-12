@@ -19,7 +19,7 @@
 | Order page Test | Nagy Zoltán | 2020. 12. 08. 9:48 | Yes | Reached and worked correctly |
 | Add Product page | Nagy Zoltán | 2020. 12. 12. 20:48 | Yes | Reached and worked correctly |
 | Login Test | Nagy Zoltán | 2020. 12. 12 | 20:51 | Yes | Working correctly |
-| Order Test | Nagy Zoltán | | | |
+| Order Test | Nagy Zoltán | 2020. 12. 12. 20:56 | Yes | Page works properly  |
 | Order List Test | Nagy Zoltán | | | |
 | Product page Test | Nagy Zoltán | | | |
 | Add Cart page Test | Nagy Zoltán | | | |
