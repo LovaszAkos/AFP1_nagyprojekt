@@ -26,6 +26,6 @@
 | Forgot password Test | Nagy Zoltán | 2020. 12. 12. 21:08 | Yes | Worked correctly |
 | Main Page Test | Nagy Zoltán | 2020. 12. 12. 21:12 | Yes | Page works correctly |
 | Register Page Test | Nagy Zoltán | 2020. 12. 12. 21:14 | Yes | Reached and worked correctly |
-| Registration Test | Nagy Zoltán | | | |
+| Registration Test | Nagy Zoltán | 2020. 12. 12. 21:16 | Yes | Works fine |
 
 
