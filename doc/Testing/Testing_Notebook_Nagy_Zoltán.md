@@ -24,7 +24,7 @@
 | Product page Test | Nagy Zoltán | 2020. 12. 12. 21:01 | Yes | Page works correctly |
 | Add Cart page Test | Nagy Zoltán | 2020. 12. 12. 21:04 | Yes | Reached and worked correctly |
 | Forgot password Test | Nagy Zoltán | 2020. 12. 12. 21:08 | Yes | Worked correctly |
-| Main Page Test | Nagy Zoltán | | | |
+| Main Page Test | Nagy Zoltán | 2020. 12. 12. 21:12 | Yes | Page works correctly |
 | Register Page Test | Nagy Zoltán | | | |
 | Registration Test | Nagy Zoltán | | | |
 
