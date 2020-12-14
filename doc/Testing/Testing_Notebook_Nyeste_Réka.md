@@ -7,7 +7,7 @@
 
 | Modul | Name | Time | Is it working correctly? | Side Note |
 |-------|------|------|--------------------------|-----------|
-| Database Import| Nyeste Réka | | | |
+| Database Import| Nyeste Réka | 2020. 12. 14. | Yes | - |
 | Database Reach| Nyeste Réka | | | |
 | Logout Reach | Nyeste Réka | | | |
 | Carousel Test | Nyeste Réka | | | |
