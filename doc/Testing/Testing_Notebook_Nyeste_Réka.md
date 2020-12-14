@@ -18,7 +18,7 @@
 | Login page Test | Nyeste Réka | 2020. 12. 14. 20:57 | Yes | The login page is working correctly |
 | Order page Test | Nyeste Réka | 2020. 12. 14. 21:04 | Yes | The order page's loaded and working well |
 | Add Product page | Nyeste Réka | 2020. 12. 14. 21:06 | Yes | This page is working good |
-| Login Test | Nyeste Réka | | | |
+| Login Test | Nyeste Réka | 2020. 12. 14. 21:08 | Yes | The login system is working fine |
 | Order Test | Nyeste Réka | | | |
 | Order List Test | Nyeste Réka | | | |
 | Product page Test | Nyeste Réka | | | |
