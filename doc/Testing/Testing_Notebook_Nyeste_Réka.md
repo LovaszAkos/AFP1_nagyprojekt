@@ -13,7 +13,7 @@
 | Carousel Test | Nyeste Réka | 2020. 12. 14. 20:42 | Yes | Working well |
 | Fejhallgató page Test | Nyeste Réka | 2020. 12. 14. 20:45 | Yes | The page's loaded without any problem |
 | Erősítő page Test | Nyeste Réka | 2020. 12. 14. 20:48 | Yes | The page is working good |
-| Hangkártya page Test | Nyeste Réka | | | |
+| Hangkártya page Test | Nyeste Réka | 2020. 12. 14. 20:52 | Yes | Working good |
 | Kiegészítő page Test | Nyeste Réka | | | |
 | Login page Test | Nyeste Réka | | | |
 | Order page Test | Nyeste Réka | | | |
