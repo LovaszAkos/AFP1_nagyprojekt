@@ -8,7 +8,7 @@
 | Modul | Name | Time | Is it working correctly? | Side Note |
 |-------|------|------|--------------------------|-----------|
 | Database Import| Nyeste Réka | 2020. 12. 14. 20:25 | Yes | - |
-| Database Reach| Nyeste Réka | | | |
+| Database Reach| Nyeste Réka | 2020. 12. 14. 20:29 | Yes | - |
 | Logout Reach | Nyeste Réka | | | |
 | Carousel Test | Nyeste Réka | | | |
 | Fejhallgató page Test | Nyeste Réka | | | |
