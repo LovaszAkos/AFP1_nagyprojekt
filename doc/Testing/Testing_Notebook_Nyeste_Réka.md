@@ -21,7 +21,7 @@
 | Login Test | Nyeste Réka | 2020. 12. 14. 21:08 | Yes | The login system is working fine |
 | Order Test | Nyeste Réka | 2020. 12. 14. 21:10 | Yes | The ordering is working without any mistake |
 | Order List Test | Nyeste Réka | 2020. 12. 14. 21:12 | Yes | The list of the orders is working very well |
-| Product page Test | Nyeste Réka | | | |
+| Product page Test | Nyeste Réka | 2020. 12. 14. 21:16 | Yes | This page is working good |
 | Add Cart page Test | Nyeste Réka | | | |
 | Forgot password Test | Nyeste Réka | | | |
 | Main Page Test | Nyeste Réka | | | |
