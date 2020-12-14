@@ -9,6 +9,7 @@
     define('PRODUCT_CONTROLLER', PRODUCT_DIR.'productController.php');
     define('ORDER_DIR', PROTECTED_DIR.'order/');
     define('ORDER_CONTROLLER', ORDER_DIR.'orderController.php');
+    define('HOME_DIR', PROTECTED_DIR.'home/');
 
 
     define('IMG_DIR', PUBLIC_DIR.'img/');

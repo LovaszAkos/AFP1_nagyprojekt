@@ -10,7 +10,7 @@
 ?>
 
 <?php if (empty($order)) : ?>
-    <?php    require_once PRODUCT_DIR.'notfound.php'; ?>
+    <?php  require_once HOME_DIR.'404.php'; ?>
 <?php else: ?>
     sdsf
 <?php endif; ?>

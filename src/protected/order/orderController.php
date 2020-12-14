@@ -63,7 +63,7 @@
     }
 
     function getOrderById($id) {
-        $query = "SELECT * FROM orders WHERE id = :id";
+        $query = "SELECT * FROM orders o INNER JOIN users u ON u.id = o.user_id INNER JOIN packages p ON p.order_id = o.id WHERE o.id = :id";
         $params = [
             ':id' => $id
         ];
