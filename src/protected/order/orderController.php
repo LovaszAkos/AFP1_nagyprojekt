@@ -82,7 +82,7 @@
             ':id' => $id
         ];
         require_once DATABASE_CONTROLLER;
-        return getRecord($query, $params);
+        return getList($query, $params);
     }
 
 ?>
