@@ -6,6 +6,7 @@
     require_once ORDER_CONTROLLER;
 
     $order = getOrderById($_GET['ID']);
+    $packages = getPackagesByOrder($_GET['ID']);
 
 ?>
 
@@ -16,6 +17,10 @@
     <?php 
         foreach ($order as $key => $value) {
             echo $key."<br>";
+        }
+
+        foreach ($packages as $key => $value) {
+            echo $key." ".$value."<br>";
         }
 
     ?>

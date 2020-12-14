@@ -76,7 +76,13 @@
     }
 
     function getPackagesByOrder($id) {
-        $query = 
+        $query = "SELECT pa.amount, pr.product_brand, pr.product_name, pr.id as 'product_id', pr.price
+            FROM packages pa INNER JOIN products pr ON pr.id = pa.product_id WHERE order_id = :id";
+        $params = [
+            ':id' => $id
+        ];
+        require_once DATABASE_CONTROLLER;
+        return getRecord($query, $params);
     }
 
 ?>
