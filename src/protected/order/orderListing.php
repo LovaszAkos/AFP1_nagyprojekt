@@ -15,7 +15,7 @@
         <table class="table table-striped">
             <thead>
             <tr>
-
+                <th scope="col">Rendelés id</th>
                 <th scope="col">Felhasználó Id</th>
                 <th scope="col">Név</th>
                 <th scope="col">Cím</th>
@@ -27,7 +27,7 @@
             <?php foreach ($items as $item): ?>
                 <tbody>
                     <tr>
-
+                    <td><a href="index.php?P=order&ID=<?=$item['id']; ?>"><?=$item['id'] ?></a></td>
                     <td><?=$item['email'] ?></td>
                     <td><?=$item['last_name'] ." ". $item['first_name'] ?></td>
                     <td><?=$item['address'] ?></td>
