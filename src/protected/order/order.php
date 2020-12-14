@@ -32,7 +32,7 @@
             </tr>
             <tr>
                 <td>Irányítószám: </td>
-                <td><?=$order['address']; ?></td>
+                <td><?=$order['zip']; ?></td>
             </tr>
             <tr>
                 <td>Város: </td>
