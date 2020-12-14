@@ -19,7 +19,7 @@
 | Order page Test | Nyeste Réka | 2020. 12. 14. 21:04 | Yes | The order page's loaded and working well |
 | Add Product page | Nyeste Réka | 2020. 12. 14. 21:06 | Yes | This page is working good |
 | Login Test | Nyeste Réka | 2020. 12. 14. 21:08 | Yes | The login system is working fine |
-| Order Test | Nyeste Réka | | | |
+| Order Test | Nyeste Réka | 2020: 12. 14. 21:10 | Yes | The ordering is working without any mistake |
 | Order List Test | Nyeste Réka | | | |
 | Product page Test | Nyeste Réka | | | |
 | Add Cart page Test | Nyeste Réka | | | |
