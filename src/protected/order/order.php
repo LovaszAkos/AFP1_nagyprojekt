@@ -87,9 +87,6 @@
             </tr>
         </tfoot>
     </table>
-
-
-
     </div>
         
 <?php endif; ?>

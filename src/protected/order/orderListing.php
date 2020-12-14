@@ -11,7 +11,6 @@
     <p id="alert">Nincsenek megrendelések!</p>
 <?php else: ?>
     <div class = "row">
-
         <table class="table table-striped">
             <thead>
             <tr>
@@ -35,7 +34,7 @@
                     <td><?=$item['time'] ?></td>
 
                     </tr>
-                </div>
             <?php endforeach ?>
+        </table>
     </div>
 <?php endif; ?>
