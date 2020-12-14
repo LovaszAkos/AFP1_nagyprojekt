@@ -23,7 +23,7 @@
 | Order List Test | Nyeste Réka | 2020. 12. 14. 21:12 | Yes | The list of the orders is working very well |
 | Product page Test | Nyeste Réka | 2020. 12. 14. 21:16 | Yes | This page is working good |
 | Add Cart page Test | Nyeste Réka | 2020. 12. 14. 21:17 | Yes | Adding to the cart is working correctly |
-| Forgot password Test | Nyeste Réka | | | |
+| Forgot password Test | Nyeste Réka | 2020. 12. 14. 21:19 | Yes | This function is working very well |
 | Main Page Test | Nyeste Réka | | | |
 | Register Page Test | Nyeste Réka | | | |
 | Registration Test | Nyeste Réka | | | |
