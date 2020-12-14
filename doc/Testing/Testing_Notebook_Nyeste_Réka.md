@@ -9,7 +9,7 @@
 |-------|------|------|--------------------------|-----------|
 | Database Import| Nyeste Réka | 2020. 12. 14. 20:25 | Yes | - |
 | Database Reach| Nyeste Réka | 2020. 12. 14. 20:33 | Yes | Working properly |
-| Logout Reach | Nyeste Réka | | | |
+| Logout Reach | Nyeste Réka | 2020. 12. 14. 20:39 | Yes | Working well |
 | Carousel Test | Nyeste Réka | | | |
 | Fejhallgató page Test | Nyeste Réka | | | |
 | Erősítő page Test | Nyeste Réka | | | |
