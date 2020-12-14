@@ -26,6 +26,6 @@
 | Forgot password Test | Nyeste Réka | 2020. 12. 14. 21:19 | Yes | This function is working very well |
 | Main Page Test | Nyeste Réka | 2020. 12. 14. 21:21 | Yes | The main page's loaded right |
 | Register Page Test | Nyeste Réka | 2020. 12. 14. 21:23 | Yes | The register page is working |
-| Registration Test | Nyeste Réka | | | |
+| Registration Test | Nyeste Réka | 2020. 12. 14. 21:25 | Yes | The function of registration is working good |
 
 
