@@ -16,7 +16,7 @@
 | Hangkártya page Test | Nyeste Réka | 2020. 12. 14. 20:52 | Yes | Working good |
 | Kiegészítő page Test | Nyeste Réka | 2020. 12. 14. 20:54 | Yes | This page is working fine |
 | Login page Test | Nyeste Réka | 2020. 12. 14. 20:57 | Yes | The login page is working correctly |
-| Order page Test | Nyeste Réka | | | |
+| Order page Test | Nyeste Réka | 2020. 12. 14. 21:04 | Yes | The order page's loaded and working well |
 | Add Product page | Nyeste Réka | | | |
 | Login Test | Nyeste Réka | | | |
 | Order Test | Nyeste Réka | | | |
