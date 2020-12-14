@@ -25,7 +25,7 @@
 | Add Cart page Test | Nyeste Réka | 2020. 12. 14. 21:17 | Yes | Adding to the cart is working correctly |
 | Forgot password Test | Nyeste Réka | 2020. 12. 14. 21:19 | Yes | This function is working very well |
 | Main Page Test | Nyeste Réka | 2020. 12. 14. 21:21 | Yes | The main page's loaded right |
-| Register Page Test | Nyeste Réka |  | | |
+| Register Page Test | Nyeste Réka | 2020. 12. 14. 21:23 | Yes | The register page is working |
 | Registration Test | Nyeste Réka | | | |
 
 
