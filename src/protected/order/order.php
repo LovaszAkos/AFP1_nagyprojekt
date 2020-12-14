@@ -71,7 +71,7 @@
                     <?php $total += (int)$item['amount'] * (int)$item['price']; ?>
                     <?php $count += (int)$item['amount']; ?>
                     <th scope="row"><?=$i ?></th>
-                    <td><a href="index.php?P=product&ID=<?=$item['id']; ?>"><?=$item['product_brand'].' '.$item['product_name']; ?></a></td>
+                    <td><a href="index.php?P=product&ID=<?=$item['product_id']; ?>"><?=$item['product_brand'].' '.$item['product_name']; ?></a></td>
                     <td><?=$item['amount']; ?></td>
                     <td><?=number_format((int)$item['amount'] * (int)$item['price']).' Ft'; ?></td>
                 <?php endforeach; ?>
