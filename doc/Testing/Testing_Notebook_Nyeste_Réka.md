@@ -14,7 +14,7 @@
 | Fejhallgató page Test | Nyeste Réka | 2020. 12. 14. 20:45 | Yes | The page's loaded without any problem |
 | Erősítő page Test | Nyeste Réka | 2020. 12. 14. 20:48 | Yes | The page is working good |
 | Hangkártya page Test | Nyeste Réka | 2020. 12. 14. 20:52 | Yes | Working good |
-| Kiegészítő page Test | Nyeste Réka | | | |
+| Kiegészítő page Test | Nyeste Réka | 2020. 12. 14. 20:54 | Yes | This page is working fine |
 | Login page Test | Nyeste Réka | | | |
 | Order page Test | Nyeste Réka | | | |
 | Add Product page | Nyeste Réka | | | |
