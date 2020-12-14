@@ -63,7 +63,9 @@
     }
 
     function getOrderById($id) {
-        $query = "SELECT * FROM orders o INNER JOIN users u ON u.id = o.user_id INNER JOIN packages p ON p.order_id = o.id WHERE o.id = :id";
+        $query = "SELECT o.id as 'id', o.first_name, o.last_name, o.address, o.zip, o.city, o.country, o.complete, o.time,
+            u.id as 'userid', u.email
+            FROM orders o INNER JOIN users u ON u.id = o.user_id WHERE o.id = :id";
         $params = [
             ':id' => $id
         ];
@@ -71,6 +73,10 @@
 
         require_once DATABASE_CONTROLLER;
         return getRecord($query, $params);
+    }
+
+    function getPackagesByOrder($id) {
+        $query = 
     }
 
 ?>

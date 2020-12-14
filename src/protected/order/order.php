@@ -12,5 +12,11 @@
 <?php if (empty($order)) : ?>
     <?php  require_once HOME_DIR.'404.php'; ?>
 <?php else: ?>
-    sdsf
+    <h2> Megrendelés #<?=$order['id']; ?></h2>
+    <?php 
+        foreach ($order as $key => $value) {
+            echo $key."<br>";
+        }
+
+    ?>
 <?php endif; ?>
