@@ -20,6 +20,10 @@ switch ($_GET['P']) {
         require_once USER_DIR.'login.php';
     break;
 
+    case 'order':
+        require_once ORDER_DIR.'order.php';
+    break;
+
     case 'logout':
         if(IsUserLoggedIn()) {
             userLogout();

@@ -62,7 +62,7 @@
         return getList($query);
     }
 
-    function getOrdersById($id) {
+    function getOrderById($id) {
         $query = "SELECT * FROM orders WHERE id = :id";
         $params = [
             ':id' => $id
