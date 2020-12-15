@@ -55,6 +55,7 @@ footer {
 }
 
 .price {
+    display: inline;
     font-size: x-large;
 }
 

@@ -53,7 +53,7 @@
             </div>
             <div class="col">
                 <div class="row justify-content-md-center">
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                     <p class = "price"><?=number_format($product['price']).' Ft'; ?></p>
                     </div>
                 </div>
